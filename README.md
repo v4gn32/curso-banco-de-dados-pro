@@ -41,6 +41,22 @@ Ao final deste curso, você será capaz de:
 
 ---
 
+# Documentação
+
+<ol>
+<li><a href="documentos/semana01-fundamentos/teoria.md"> Semana 01 - Fundamentos</a></li>
+<li><a href="documentos/semana02-sql-basico/teoria.md"> Semana 02 - Basico</a></li>
+<li><a href="documentos/semana03-sql-joins/teoria.md"> Semana 03 - SQL-JOINS</a></li>
+<li><a href="documentos/semana04-modelagem/teoria.md"> Semana 04 - Modelagem</a></li>
+<li><a href="documentos/semana05-administracao/teoria.md"> Semana 05 - Administração</a></li>
+<li><a href="documentos/semana06-nosql-mongodb/teoria.md"> Semana 06 - NoSQL e MongoDB</a></li>
+<li><a href="documentos/semana07-integracao/teoria.md"> Semana 07 - Integração</a></li>
+<li><a href="documentos/semana08-avancado/teoria.md"> Semana 08 - Avançado</a></li>
+<li><a href="documentos/simulado-tecnico/perguntas-e-respostas.md"> Perguntas e Respostas</a></li>
+</ol>
+
+---
+
 ## 📦 Como usar este repositório
 
 1. Clone o repositório:
